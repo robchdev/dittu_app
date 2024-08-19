@@ -15,7 +15,7 @@ Designed for GitHub Pages for super easy set up.
 
 🕒 Keep a changelog in `CHANGELOG.md`
 
-✅ Site becomes live at GitHub Pages repository URL, e.g. `https://your-username.github.io/your-repo-name/`.
+✅ Site becomes live at GitHub Pages repository URL, e.g. `https://robchdev.github.io/dittu-app/`.
 
 <img src="https://emilbaehr.com/files/jayson1.png" width="440"> <img src="https://emilbaehr.com/files/slor1.png" width="440">
 
